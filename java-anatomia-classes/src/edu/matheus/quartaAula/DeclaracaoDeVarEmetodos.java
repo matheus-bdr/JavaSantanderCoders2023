@@ -1,3 +1,4 @@
+package edu.matheus.quartaAula;
 public class DeclaracaoDeVarEmetodos {
     public static void main(String[] args) {
         // métodos: tipoRetorno NomeObjetivoNoInfinitivo Parametro

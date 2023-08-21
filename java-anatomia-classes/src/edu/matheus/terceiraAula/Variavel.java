@@ -1,3 +1,4 @@
+package edu.matheus.terceiraAula;
 public class Variavel {
     public static void main(String[] args) {
         String variavel = "variavel";
